@@ -26,6 +26,7 @@ Requirements:
 14. 13-unique = Create a script that takes a list of words as input and prints only words that appear exactly once.
 
 R:
+
 	* Input format: One line, one word
 	* Output format: One line, one word
 	* Words should be sorted

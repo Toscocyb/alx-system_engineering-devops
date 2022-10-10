@@ -38,3 +38,4 @@ Requirements:
 	* include capital letters as well
 20. 19-AZ = Replace all characters A and c from input to Z and e respectively.
 21. 20-hiago = Create a script that removes all letters c and C from input.
+22. 21-reverse = Write a script that reverse its input.
